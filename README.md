@@ -31,3 +31,39 @@
 
 ## Благодарности
 Этот сайт был создан с любовью и заботой. Надеюсь, что он принесёт радость и улыбку 😊.
+
+#ENGLISH:
+
+# SAT FOREVER 👻
+
+## Project Description
+**SAT FOREVER** is a small website created as a gift for my girlfriend 💖. It includes two pages, a unique color palette, and simple navigation. The site also features a button for quick access to my Telegram.
+
+### Key Features:
+- 🎵 **Background Music**: A track plays automatically in the background.
+- 🌈 **Custom Styling**: Utilizes custom fonts, colors, and icons.
+- 💌 **Contact Button**: Quick navigation to Telegram.
+- 💖 **Personal Touch**: Includes photos and text that express my feelings.
+
+## Project Structure
+- **Main Page**: Features a welcome message and stylish design.
+- **Second Page**: Additional information and navigation.
+- **Music Playback**: An auto-playing audio track.
+- **Icons and Fonts**: Integrated with FontAwesome and Google Fonts.
+
+## Technologies Used
+- **HTML5**: The main structure of the site.
+- **CSS3**: Customization and styling of elements.
+- **JavaScript**: Adds interactivity, including a pop-up welcome message.
+- **JQuery**: Simplifies DOM manipulation.
+- **FontAwesome**: Icons for enhanced visuals.
+- **Google Fonts**: Fonts to improve the look and feel.
+
+## How to Run the Project
+1. Download or clone the repository.
+2. Open the `index.html` file in any modern browser.
+3. Enjoy the website and use the button on the main page to navigate to Telegram.
+
+## Acknowledgments
+This website was created with love and care. I hope it brings joy and a smile 😊.
+
